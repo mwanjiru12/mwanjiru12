@@ -26,6 +26,7 @@
 <ul>
 <li>📧 Email: <a href="mailto:maria.wk447@gmail.com">maria.wk447@gmail.com</a></li>
 <li>📞 Phone: +254 721 563189</li>
+<br><br>
   
 
 <h3 align="center">🌟 My Top Projects</h3>
@@ -52,10 +53,7 @@
   </div>
 </div>
 
-<!-- Add a fun GIF here -->
-<p align="center">
-  <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
-</p>
+<br><br>
 
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
