@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 
 <!-- Add your banner here -->
-<p align="center">
-  ![LinkedIn Banner](./assets/linkedin%20banner.png)
-</p>
+![LinkedIn Banner](./assets/linkedin%20banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwanjiru12&label=Profile%20views&color=0e75b6&style=flat" alt="mwanjiru12" /> </p>
 
