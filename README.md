@@ -57,7 +57,7 @@
   <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
 <div align="center">
   <a href="https://www.instagram.com/m.a.r.u.c.i/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -76,7 +76,7 @@
   </a>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> 🛠️ Languages and Tools</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
