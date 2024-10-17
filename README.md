@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria Kamau</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 
+<!-- Add your banner here -->
+<p align="center">
+  <img src="https://path-to-your-banner-image.png" alt="Maria's Banner" width="100%" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwanjiru12&label=Profile%20views&color=0e75b6&style=flat" alt="mwanjiru12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwanjiru12" alt="mwanjiru12" /></a> </p>
@@ -14,6 +19,11 @@
 - 📫 How to reach me **maria.wk447@gmail.com**
 
 - 📄 Know about my experiences [CV Link](https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_)
+
+  <!-- Add a fun GIF here -->
+<p align="center">
+  <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
+</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
