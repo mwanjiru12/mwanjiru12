@@ -1,6 +1,6 @@
 
 <p align="center">
-    ![Funny GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Funny GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Maria Kamau</h1>
