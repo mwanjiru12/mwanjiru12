@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **maria.wk447@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_](https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_)
-
+- 📄 Know about my experiences [CV Link](https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mwanjiru12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mwanjiru12" height="30" width="40" /></a>
