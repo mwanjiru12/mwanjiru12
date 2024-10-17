@@ -23,8 +23,7 @@
 <ul>
 <li>📧 Email: <a href="mailto:maria.wk447@gmail.com">maria.wk447@gmail.com</a></li>
 <li>📞 Phone: +254 721 563189</li>
-<li>🌐 GitHub: <a href="https://github.com/mwanjiru12">github.com/mwanjiru12</a></li>
-</ul>
+
 <!-- Add a fun GIF here -->
 <p align="center">
   <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
