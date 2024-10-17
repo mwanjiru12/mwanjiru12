@@ -26,30 +26,19 @@
 <ul>
 <li>📧 Email: <a href="mailto:maria.wk447@gmail.com">maria.wk447@gmail.com</a></li>
 <li>📞 Phone: +254 721 563189</li>
+  
+### 🌟 My Top Projects
+- **Harambee Arms**: A web application for browsing and purchasing firearms and accessories.  
+  - **Frontend**: ![Frontend](https://img.shields.io/badge/Frontend-GitHub-0077B5?style=flat&logo=github) [Harambee Arms Frontend](https://github.com/iankuria668/harambee-arms-group-10-project)  
+  - **Backend**: ![Backend](https://img.shields.io/badge/Backend-GitHub-0077B5?style=flat&logo=github) [Harambee Arms Backend](https://github.com/iankuria668/harambeearmbackend)  
 
-<h3 align="center">🌟 My Top Projects</h3>
-<div align="center">
-  <div>
-    <h4>Harambee Arms</h4>
-    <p>A web application for browsing and purchasing firearms and accessories.</p>
-    <a href="https://github.com/iankuria668/harambee-arms-group-10-project">Frontend Repository</a> | 
-    <a href="https://github.com/iankuria668/harambeearmbackend">Backend Repository</a>
-  </div>
+- **One Stop Products**: A comprehensive e-commerce platform frontend for a seamless shopping experience.  
+  - **Frontend**: ![Frontend](https://img.shields.io/badge/Frontend-GitHub-0077B5?style=flat&logo=github) [One Stop Products Frontend](https://github.com/Rhoda-NM/OneStopShop-Frontend)  
+  - **Backend**: ![Backend](https://img.shields.io/badge/Backend-GitHub-0077B5?style=flat&logo=github) [One Stop Products Backend](https://github.com/Rhoda-NM/OneStopShop-Project)  
 
-  <div>
-    <h4>One Stop Products</h4>
-    <p>A comprehensive e-commerce platform frontend for a seamless shopping experience.</p>
-    <a href="https://github.com/Rhoda-NM/OneStopShop-Frontend">Frontend Repository</a> | 
-    <a href="https://github.com/Rhoda-NM/OneStopShop-Project">Backend Repository</a>
-  </div>
-
-  <div>
-    <h4>Cardio Tracker</h4>
-    <p>A personal fitness tracking application focused on cardio-centric exercises.</p>
-    <a href="https://github.com/mwanjiru12/CardioTracker">Frontend Repository</a> | 
-    <a href="https://github.com/mwanjiru12/CardioTrackerBackend">Backend Repository</a>
-  </div>
-</div>
+- **Cardio Tracker**: A personal fitness tracking application focused on cardio-centric exercises.  
+  - **Frontend**: ![Frontend](https://img.shields.io/badge/Frontend-GitHub-0077B5?style=flat&logo=github) [Cardio Tracker Frontend](https://github.com/mwanjiru12/CardioTracker)  
+  - **Backend**: ![Backend](https://img.shields.io/badge/Backend-GitHub-0077B5?style=flat&logo=github) [Cardio Tracker Backend](https://github.com/mwanjiru12/CardioTrackerBackend)  
 
 <!-- Add a fun GIF here -->
 <p align="center">
