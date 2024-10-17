@@ -1,5 +1,8 @@
 <!-- Add your banner here -->
-![Funny GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+<div style="text-align: center;">
+    <iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Maria Kamau</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
