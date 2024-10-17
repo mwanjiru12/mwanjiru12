@@ -1,14 +1,30 @@
 <h1 align="center">Hi 👋, I'm Maria Kamau</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
 
-
-<p align="left"> <a href="https://twitter.com/mariawkcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mariawkcodes?logo=twitter&style=for-the-badge" alt="mariawkcodes" /></a> </p>
-
 - 🔭 I’m currently working on [Cardio Tracker](https://github.com/mwanjiru12/CardioTracker)
 - 🌱 I’m currently learning **CCNA 3**
 - 📫 How to reach me **maria.wk447@gmail.com**
 - 📄 Know about my experiences [CV Link](https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_)
 
+
+<p align="left">I am an IT professional with expertise in ICT support, software development, and cybersecurity. With hands-on experience from internships and volunteer roles, I’ve successfully provided technical support, configured networks, and built dynamic web applications using Python, React, and SQL. My background in cybersecurity includes implementing Kaspersky Internet Security, managing Active Directory, and ensuring data protection.</p>
+
+<p align="left">🌟 Currently Seeking: A full-time IT role where I can continue to apply my expertise and contribute to innovative projects.</p>
+
+<p align="left"><strong>Key Skills:</strong></p>
+<ul>
+<li>💻 <strong>Programming Languages & Technologies:</strong> Python, JavaScript, React, SQL, Flask, JSON</li>
+<li>🛠️ <strong>Technical Support:</strong> Hardware/software setup, network infrastructure maintenance</li>
+<li>🌐 <strong>Networking:</strong> Cisco, IPv4 Networking, Routing, Switching</li>
+<li>🔒 <strong>Cybersecurity:</strong> Active Directory, Back-Ups, Kaspersky Internet Security</li>
+</ul>
+
+<p align="left"><strong>Contact Information</strong></p>
+<ul>
+<li>📧 Email: <a href="mailto:maria.wk447@gmail.com">maria.wk447@gmail.com</a></li>
+<li>📞 Phone: +254 721 563189</li>
+<li>🌐 GitHub: <a href="https://github.com/mwanjiru12">github.com/mwanjiru12</a></li>
+</ul>
 <!-- Add a fun GIF here -->
 <p align="center">
   <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
