@@ -29,16 +29,17 @@
 
 ### 🌟 My Top Projects
 - **Harambee Arms**: A web application for browsing and purchasing firearms and accessories.  
-  - **Frontend Repository**: [Harambee Arms Frontend](https://github.com/iankuria668/harambee-arms-group-10-project)  
-  - **Backend Repository**: [Harambee Arms Backend](https://github.com/iankuria668/harambeearmbackend)
+  - **Frontend Repository**: [Harambee Arms Frontend](https://github.com/iankuria668/harambee-arms-group-10-project) <img src="https://img.shields.io/static/v1?message=Frontend&color=0077B5&logo=github&style=for-the-badge" alt="Frontend Link"/>  
+  - **Backend Repository**: [Harambee Arms Backend](https://github.com/iankuria668/harambeearmbackend) <img src="https://img.shields.io/static/v1?message=Backend&color=0077B5&logo=github&style=for-the-badge" alt="Backend Link"/>  
 
 - **One Stop Products**: A comprehensive e-commerce platform frontend for a seamless shopping experience.  
-  - **Frontend Repository**: [One Stop Products Frontend](https://github.com/Rhoda-NM/OneStopShop-Frontend)  
-  - **Backend Repository**: [One Stop Products Backend](https://github.com/Rhoda-NM/OneStopShop-Project)
+  - **Frontend Repository**: [One Stop Products Frontend](https://github.com/Rhoda-NM/OneStopShop-Frontend) <img src="https://img.shields.io/static/v1?message=Frontend&color=0077B5&logo=github&style=for-the-badge" alt="Frontend Link"/>  
+  - **Backend Repository**: [One Stop Products Backend](https://github.com/Rhoda-NM/OneStopShop-Project) <img src="https://img.shields.io/static/v1?message=Backend&color=0077B5&logo=github&style=for-the-badge" alt="Backend Link"/>  
 
 - **Cardio Tracker**: A personal fitness tracking application focused on cardio-centric exercises.  
-  - **Frontend Repository**: [Cardio Tracker Frontend](https://github.com/mwanjiru12/CardioTracker)  
-  - **Backend Repository**: [Cardio Tracker Backend](https://github.com/mwanjiru12/CardioTrackerBackend)
+  - **Frontend Repository**: [Cardio Tracker Frontend](https://github.com/mwanjiru12/CardioTracker) <img src="https://img.shields.io/static/v1?message=Frontend&color=0077B5&logo=github&style=for-the-badge" alt="Frontend Link"/>  
+  - **Backend Repository**: [Cardio Tracker Backend](https://github.com/mwanjiru12/CardioTrackerBackend) <img src="https://img.shields.io/static/v1?message=Backend&color=0077B5&logo=github&style=for-the-badge" alt="Backend Link"/>  
+
 <!-- Add a fun GIF here -->
 <p align="center">
   <img src="https://media.giphy.com/media/your-fun-gif-url.gif" alt="Fun GIF" width="300"/>
