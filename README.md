@@ -3,7 +3,7 @@
 
 <!-- Add your banner here -->
 <p align="center">
-  <img src="https://path-to-your-banner-image.png" alt="Maria's Banner" width="100%" />
+  ![LinkedIn Banner](./assets/linkedin%20banner.png)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwanjiru12&label=Profile%20views&color=0e75b6&style=flat" alt="mwanjiru12" /> </p>
