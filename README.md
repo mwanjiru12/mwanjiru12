@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Cardio Tracker](https://github.com/mwanjiru12/CardioTracker)
 - 🌱 I’m currently learning **CCNA 3**
-- 📫 How to reach me **maria.wk447@gmail.com**
 - 📄 Know about my experiences [CV Link](https://drive.google.com/drive/folders/1EoQEe4XGV4aZh3RirhYCM89UHGxFy1F_)
 
 
