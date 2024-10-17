@@ -75,6 +75,8 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
 </div>
+<br><br>
+<br><br>
 
 <h3 align="center"> 🛠️ Languages and Tools</h3>
 <p align="left"> 
