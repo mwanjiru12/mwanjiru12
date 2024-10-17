@@ -1,3 +1,6 @@
+<!-- Add your banner here -->
+![LinkedIn Banner](./assets/linkedin%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Maria Kamau</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
 
@@ -58,5 +61,4 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<!-- Add your banner here -->
-![LinkedIn Banner](./assets/linkedin%20banner.png)
+
