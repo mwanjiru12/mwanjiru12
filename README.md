@@ -17,7 +17,6 @@
 
 <p align="left"><strong>Key Skills:</strong></p>
 <ul>
-<li>💻 <strong>Programming Languages & Technologies:</strong> Python, JavaScript, React, SQL, Flask, JSON</li>
 <li>🛠️ <strong>Technical Support:</strong> Hardware/software setup, network infrastructure maintenance</li>
 <li>🌐 <strong>Networking:</strong> Cisco, IPv4 Networking, Routing, Switching</li>
 <li>🔒 <strong>Cybersecurity:</strong> Active Directory, Back-Ups, Kaspersky Internet Security</li>
